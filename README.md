@@ -1,5 +1,7 @@
 # Maze Runner – Assembly Language Game
 
+![image](https://github.com/user-attachments/assets/bfd7dba5-4d2e-4c88-bdf9-09499c7ced56)
+
 A fully playable maze game created using Assembly Language (TASM/MASM) with keyboard controls and simple logic.
 
 ## How to Play
